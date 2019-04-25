@@ -1,0 +1,9 @@
+applications:
+- name: articulate
+  instances: 1
+  path: D:\\software\\Cloud-Related\\code\\pcf-developer-1.7.a.RELEASE-labs\\articulate\\articulate-0.2.jar
+  random-route: true
+  services:
+   - attendee-service
+  
+  
